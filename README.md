@@ -1,2 +1,2 @@
 # EV-Adoption-Charging-Infrastructure-Dashboard-India
-A Power BI dashboard analyzing state-wise EV adoption and charging station distribution in India. It includes total EV and charging counts, bar charts comparing states, and an interactive slicer for exploring trends and regional differences.
+Power BI dashboard analyzing EV adoption and charging station deployment across Indian states. Includes KPIs, state-wise bar charts, scatter visualization, and an interactive slicer. Data was cleaned and aggregated in Power Query to enable comparison and insight-driven exploration.
